@@ -110,22 +110,4 @@ Collaborative project built by a team of 4 & completed in 5 days.
 * Bag page
 
 
-* Admin Dashboard
 
-
-## Contributors  😇
-
-- 👤 [Salil Upadhyay | Team Lead](https://github.com/salil-01)
-
-  -     Key Responsibility - Complete Backend & Admin Side, Sign-In & Sign-Up, Bag Page, Payment Page
-
-- 👤 [Vikas K Sharma]()
-
-  -     Key Responsibility - Product Page, Single Product Page
-
-- 👤 [Lokendra Pal Shekhawat]()
-
-  -     Key Responsibility - Homepage 
-
-- 👤 [Soumya Ranjan Rout]()
-  -     Key Responsibility - 
